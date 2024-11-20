@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/67203a90957d49f4bac446b657b65da2/artifacts
+end_time: 1732127253145
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 67203a90957d49f4bac446b657b65da2
+run_name: languid-seal-758
+run_uuid: 67203a90957d49f4bac446b657b65da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253098
+status: 3
+tags: []
+user_id: dave

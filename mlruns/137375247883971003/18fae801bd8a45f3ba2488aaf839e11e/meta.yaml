@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/18fae801bd8a45f3ba2488aaf839e11e/artifacts
+end_time: 1732127239221
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 18fae801bd8a45f3ba2488aaf839e11e
+run_name: mercurial-dove-846
+run_uuid: 18fae801bd8a45f3ba2488aaf839e11e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239179
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/3218a6f04cff492da87c1894577b3a0a/artifacts
+end_time: 1732127229481
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 3218a6f04cff492da87c1894577b3a0a
+run_name: rumbling-robin-939
+run_uuid: 3218a6f04cff492da87c1894577b3a0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229435
+status: 3
+tags: []
+user_id: dave

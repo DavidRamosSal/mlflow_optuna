@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/207c636f05274d89ac7f54d84e9aa759/artifacts
+end_time: 1732127242099
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 207c636f05274d89ac7f54d84e9aa759
+run_name: bemused-shark-156
+run_uuid: 207c636f05274d89ac7f54d84e9aa759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242052
+status: 3
+tags: []
+user_id: dave

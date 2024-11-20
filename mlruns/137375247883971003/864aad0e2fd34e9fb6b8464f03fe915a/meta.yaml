@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/864aad0e2fd34e9fb6b8464f03fe915a/artifacts
+end_time: 1732127243172
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 864aad0e2fd34e9fb6b8464f03fe915a
+run_name: stately-loon-738
+run_uuid: 864aad0e2fd34e9fb6b8464f03fe915a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243122
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/de52342290cc4ebeb1980b65182fa761/artifacts
+end_time: 1732127247158
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: de52342290cc4ebeb1980b65182fa761
+run_name: nimble-toad-419
+run_uuid: de52342290cc4ebeb1980b65182fa761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247117
+status: 3
+tags: []
+user_id: dave

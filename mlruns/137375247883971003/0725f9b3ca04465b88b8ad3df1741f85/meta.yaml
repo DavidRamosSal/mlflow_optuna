@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0725f9b3ca04465b88b8ad3df1741f85/artifacts
+end_time: 1732127231572
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0725f9b3ca04465b88b8ad3df1741f85
+run_name: suave-ray-447
+run_uuid: 0725f9b3ca04465b88b8ad3df1741f85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231531
+status: 3
+tags: []
+user_id: dave

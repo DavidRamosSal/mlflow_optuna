@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/9415165c00b840678c7a1b8460aa6871/artifacts
+end_time: 1732127246563
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 9415165c00b840678c7a1b8460aa6871
+run_name: clumsy-mare-504
+run_uuid: 9415165c00b840678c7a1b8460aa6871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127246520
+status: 3
+tags: []
+user_id: dave

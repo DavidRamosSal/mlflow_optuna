@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e7ad975d892f4200a3a8ab4294867a83/artifacts
+end_time: 1732127225718
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e7ad975d892f4200a3a8ab4294867a83
+run_name: gaudy-ox-812
+run_uuid: e7ad975d892f4200a3a8ab4294867a83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127225696
+status: 3
+tags: []
+user_id: dave

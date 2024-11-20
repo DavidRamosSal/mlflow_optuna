@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d20a8e36a15d42da90269b35e7b178c9/artifacts
+end_time: 1732127242390
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d20a8e36a15d42da90269b35e7b178c9
+run_name: crawling-owl-671
+run_uuid: d20a8e36a15d42da90269b35e7b178c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242332
+status: 3
+tags: []
+user_id: dave

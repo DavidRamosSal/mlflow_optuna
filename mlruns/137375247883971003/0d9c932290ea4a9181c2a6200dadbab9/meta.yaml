@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0d9c932290ea4a9181c2a6200dadbab9/artifacts
+end_time: 1732127235273
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0d9c932290ea4a9181c2a6200dadbab9
+run_name: unleashed-bug-840
+run_uuid: 0d9c932290ea4a9181c2a6200dadbab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235232
+status: 3
+tags: []
+user_id: dave

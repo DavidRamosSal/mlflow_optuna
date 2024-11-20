@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d0ccb19a5b0547498adde255fda431ab/artifacts
+end_time: 1732127235226
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d0ccb19a5b0547498adde255fda431ab
+run_name: suave-croc-531
+run_uuid: d0ccb19a5b0547498adde255fda431ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235188
+status: 3
+tags: []
+user_id: dave

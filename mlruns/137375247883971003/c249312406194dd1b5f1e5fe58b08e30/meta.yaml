@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c249312406194dd1b5f1e5fe58b08e30/artifacts
+end_time: 1732127226016
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c249312406194dd1b5f1e5fe58b08e30
+run_name: flawless-zebra-621
+run_uuid: c249312406194dd1b5f1e5fe58b08e30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127225992
+status: 3
+tags: []
+user_id: dave

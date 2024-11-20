@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c8fdcce1deed44e188da50649f2d2310/artifacts
+end_time: 1732127253037
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c8fdcce1deed44e188da50649f2d2310
+run_name: nosy-dove-990
+run_uuid: c8fdcce1deed44e188da50649f2d2310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127252984
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/2f1899da2aeb488695f87a83572c9d2f/artifacts
+end_time: 1732127243642
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 2f1899da2aeb488695f87a83572c9d2f
+run_name: delicate-gnu-105
+run_uuid: 2f1899da2aeb488695f87a83572c9d2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243542
+status: 3
+tags: []
+user_id: dave

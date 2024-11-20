@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6c78f34cad134c238c5146721a96ab72/artifacts
+end_time: 1732127249418
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6c78f34cad134c238c5146721a96ab72
+run_name: awesome-finch-5
+run_uuid: 6c78f34cad134c238c5146721a96ab72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127249371
+status: 3
+tags: []
+user_id: dave

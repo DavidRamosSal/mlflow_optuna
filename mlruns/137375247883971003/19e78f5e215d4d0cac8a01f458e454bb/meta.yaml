@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/19e78f5e215d4d0cac8a01f458e454bb/artifacts
+end_time: 1732127250505
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 19e78f5e215d4d0cac8a01f458e454bb
+run_name: painted-panda-438
+run_uuid: 19e78f5e215d4d0cac8a01f458e454bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127250460
+status: 3
+tags: []
+user_id: dave

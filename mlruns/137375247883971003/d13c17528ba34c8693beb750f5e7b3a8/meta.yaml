@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d13c17528ba34c8693beb750f5e7b3a8/artifacts
+end_time: 1732127252878
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d13c17528ba34c8693beb750f5e7b3a8
+run_name: mysterious-duck-495
+run_uuid: d13c17528ba34c8693beb750f5e7b3a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127252834
+status: 3
+tags: []
+user_id: dave

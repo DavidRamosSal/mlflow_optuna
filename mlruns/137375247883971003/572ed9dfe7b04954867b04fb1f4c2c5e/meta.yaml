@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/572ed9dfe7b04954867b04fb1f4c2c5e/artifacts
+end_time: 1732127240516
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 572ed9dfe7b04954867b04fb1f4c2c5e
+run_name: adventurous-wolf-679
+run_uuid: 572ed9dfe7b04954867b04fb1f4c2c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240471
+status: 3
+tags: []
+user_id: dave

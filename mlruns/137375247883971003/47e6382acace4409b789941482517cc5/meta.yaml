@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/47e6382acace4409b789941482517cc5/artifacts
+end_time: 1732127229221
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 47e6382acace4409b789941482517cc5
+run_name: delightful-skink-825
+run_uuid: 47e6382acace4409b789941482517cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229184
+status: 3
+tags: []
+user_id: dave

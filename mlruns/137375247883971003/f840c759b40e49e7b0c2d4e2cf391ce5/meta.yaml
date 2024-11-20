@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f840c759b40e49e7b0c2d4e2cf391ce5/artifacts
+end_time: 1732127252928
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f840c759b40e49e7b0c2d4e2cf391ce5
+run_name: whimsical-whale-233
+run_uuid: f840c759b40e49e7b0c2d4e2cf391ce5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127252884
+status: 3
+tags: []
+user_id: dave

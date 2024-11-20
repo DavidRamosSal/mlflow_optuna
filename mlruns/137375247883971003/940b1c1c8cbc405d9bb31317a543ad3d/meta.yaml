@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/940b1c1c8cbc405d9bb31317a543ad3d/artifacts
+end_time: 1732127227215
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 940b1c1c8cbc405d9bb31317a543ad3d
+run_name: learned-cod-119
+run_uuid: 940b1c1c8cbc405d9bb31317a543ad3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127227154
+status: 3
+tags: []
+user_id: dave

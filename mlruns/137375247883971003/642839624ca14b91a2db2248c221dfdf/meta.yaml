@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/642839624ca14b91a2db2248c221dfdf/artifacts
+end_time: 1732127248102
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 642839624ca14b91a2db2248c221dfdf
+run_name: merciful-koi-633
+run_uuid: 642839624ca14b91a2db2248c221dfdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127248018
+status: 3
+tags: []
+user_id: dave

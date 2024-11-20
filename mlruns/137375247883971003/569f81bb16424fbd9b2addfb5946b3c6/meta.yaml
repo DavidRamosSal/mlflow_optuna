@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/569f81bb16424fbd9b2addfb5946b3c6/artifacts
+end_time: 1732127229847
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 569f81bb16424fbd9b2addfb5946b3c6
+run_name: glamorous-squirrel-5
+run_uuid: 569f81bb16424fbd9b2addfb5946b3c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229774
+status: 3
+tags: []
+user_id: dave

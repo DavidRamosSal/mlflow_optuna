@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f563824fba3049358c94c49b7f3c2d9c/artifacts
+end_time: 1732127232170
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f563824fba3049358c94c49b7f3c2d9c
+run_name: intrigued-hare-118
+run_uuid: f563824fba3049358c94c49b7f3c2d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127232145
+status: 3
+tags: []
+user_id: dave

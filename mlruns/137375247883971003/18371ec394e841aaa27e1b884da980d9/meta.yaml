@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/18371ec394e841aaa27e1b884da980d9/artifacts
+end_time: 1732127245055
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 18371ec394e841aaa27e1b884da980d9
+run_name: enthused-gnu-38
+run_uuid: 18371ec394e841aaa27e1b884da980d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127244961
+status: 3
+tags: []
+user_id: dave

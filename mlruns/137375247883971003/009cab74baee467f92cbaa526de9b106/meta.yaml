@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/009cab74baee467f92cbaa526de9b106/artifacts
+end_time: 1732127243746
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 009cab74baee467f92cbaa526de9b106
+run_name: charming-rook-607
+run_uuid: 009cab74baee467f92cbaa526de9b106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243648
+status: 3
+tags: []
+user_id: dave

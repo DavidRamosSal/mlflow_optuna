@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e3d9ae85ee6d400d85dbe8f696d7087f/artifacts
+end_time: 1732127253382
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e3d9ae85ee6d400d85dbe8f696d7087f
+run_name: tasteful-wren-503
+run_uuid: e3d9ae85ee6d400d85dbe8f696d7087f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253337
+status: 3
+tags: []
+user_id: dave

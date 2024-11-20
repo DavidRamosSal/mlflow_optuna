@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4c07a50976df4a61bb45cafae6c276e8/artifacts
+end_time: 1732127247811
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4c07a50976df4a61bb45cafae6c276e8
+run_name: enthused-cow-2
+run_uuid: 4c07a50976df4a61bb45cafae6c276e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247729
+status: 3
+tags: []
+user_id: dave

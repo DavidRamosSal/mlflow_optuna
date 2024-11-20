@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d2c63288f1904c9697442fa38d391a5a/artifacts
+end_time: 1732127244615
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d2c63288f1904c9697442fa38d391a5a
+run_name: flawless-grouse-676
+run_uuid: d2c63288f1904c9697442fa38d391a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127244577
+status: 3
+tags: []
+user_id: dave

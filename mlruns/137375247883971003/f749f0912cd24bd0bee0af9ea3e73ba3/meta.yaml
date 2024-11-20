@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f749f0912cd24bd0bee0af9ea3e73ba3/artifacts
+end_time: 1732127244241
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f749f0912cd24bd0bee0af9ea3e73ba3
+run_name: gaudy-ape-653
+run_uuid: f749f0912cd24bd0bee0af9ea3e73ba3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127244199
+status: 3
+tags: []
+user_id: dave

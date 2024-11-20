@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/7d8e0c29182b4597994db6d79b7df778/artifacts
+end_time: 1732127252612
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 7d8e0c29182b4597994db6d79b7df778
+run_name: nebulous-yak-831
+run_uuid: 7d8e0c29182b4597994db6d79b7df778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127252563
+status: 3
+tags: []
+user_id: dave

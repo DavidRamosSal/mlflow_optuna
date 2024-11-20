@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6a9af6fb2b1d4f7b8145802cf93d6b4a/artifacts
+end_time: 1732127253239
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6a9af6fb2b1d4f7b8145802cf93d6b4a
+run_name: bold-swan-171
+run_uuid: 6a9af6fb2b1d4f7b8145802cf93d6b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253153
+status: 3
+tags: []
+user_id: dave

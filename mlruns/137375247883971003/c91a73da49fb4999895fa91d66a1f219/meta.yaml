@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c91a73da49fb4999895fa91d66a1f219/artifacts
+end_time: 1732127233913
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c91a73da49fb4999895fa91d66a1f219
+run_name: puzzled-bee-856
+run_uuid: c91a73da49fb4999895fa91d66a1f219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127233878
+status: 3
+tags: []
+user_id: dave

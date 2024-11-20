@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d9728418fa8a4e4dae7fc408849b43d2/artifacts
+end_time: 1732127228176
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d9728418fa8a4e4dae7fc408849b43d2
+run_name: exultant-snail-178
+run_uuid: d9728418fa8a4e4dae7fc408849b43d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228140
+status: 3
+tags: []
+user_id: dave

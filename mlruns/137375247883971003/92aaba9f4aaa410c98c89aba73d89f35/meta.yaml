@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/92aaba9f4aaa410c98c89aba73d89f35/artifacts
+end_time: 1732127229021
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 92aaba9f4aaa410c98c89aba73d89f35
+run_name: gregarious-hog-767
+run_uuid: 92aaba9f4aaa410c98c89aba73d89f35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228986
+status: 3
+tags: []
+user_id: dave

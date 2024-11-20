@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/769ea93245224adb83f99f215d5a3469/artifacts
+end_time: 1732127238638
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 769ea93245224adb83f99f215d5a3469
+run_name: likeable-mule-437
+run_uuid: 769ea93245224adb83f99f215d5a3469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127238565
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/705b042ca7be4b94bbf3ab26d00685f1/artifacts
+end_time: 1732127225662
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 705b042ca7be4b94bbf3ab26d00685f1
+run_name: victorious-stork-730
+run_uuid: 705b042ca7be4b94bbf3ab26d00685f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127225627
+status: 3
+tags: []
+user_id: dave

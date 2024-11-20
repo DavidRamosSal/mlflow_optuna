@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/9b5f4484a1fc42bd8b94892f2ca5813b/artifacts
+end_time: 1732127231047
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 9b5f4484a1fc42bd8b94892f2ca5813b
+run_name: agreeable-skink-634
+run_uuid: 9b5f4484a1fc42bd8b94892f2ca5813b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231011
+status: 3
+tags: []
+user_id: dave

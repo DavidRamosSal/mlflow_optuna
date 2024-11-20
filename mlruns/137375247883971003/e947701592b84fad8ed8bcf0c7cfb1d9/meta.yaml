@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e947701592b84fad8ed8bcf0c7cfb1d9/artifacts
+end_time: 1732127246374
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e947701592b84fad8ed8bcf0c7cfb1d9
+run_name: wistful-squid-32
+run_uuid: e947701592b84fad8ed8bcf0c7cfb1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127246291
+status: 3
+tags: []
+user_id: dave

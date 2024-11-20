@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/bcac83b084a1492bbf3b93f31071fdf4/artifacts
+end_time: 1732127254134
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: bcac83b084a1492bbf3b93f31071fdf4
+run_name: clumsy-chimp-981
+run_uuid: bcac83b084a1492bbf3b93f31071fdf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254074
+status: 3
+tags: []
+user_id: dave

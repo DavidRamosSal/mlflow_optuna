@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/ef2439b9106245638ea587aa8dbf8d99/artifacts
+end_time: 1732127235820
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: ef2439b9106245638ea587aa8dbf8d99
+run_name: bright-snake-458
+run_uuid: ef2439b9106245638ea587aa8dbf8d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235778
+status: 3
+tags: []
+user_id: dave

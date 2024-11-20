@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/8beab74aba8141cea45ac229b1823de5/artifacts
+end_time: 1732127252219
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 8beab74aba8141cea45ac229b1823de5
+run_name: enchanting-bear-588
+run_uuid: 8beab74aba8141cea45ac229b1823de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127252173
+status: 3
+tags: []
+user_id: dave

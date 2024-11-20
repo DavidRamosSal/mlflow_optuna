@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/92009756d9a34972b83459e4c89906d9/artifacts
+end_time: 1732127229888
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 92009756d9a34972b83459e4c89906d9
+run_name: industrious-bear-35
+run_uuid: 92009756d9a34972b83459e4c89906d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229853
+status: 3
+tags: []
+user_id: dave

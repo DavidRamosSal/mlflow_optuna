@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5295c1150cf14f3799179794d7922bc7/artifacts
+end_time: 1732127240230
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5295c1150cf14f3799179794d7922bc7
+run_name: zealous-grouse-288
+run_uuid: 5295c1150cf14f3799179794d7922bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240188
+status: 3
+tags: []
+user_id: dave

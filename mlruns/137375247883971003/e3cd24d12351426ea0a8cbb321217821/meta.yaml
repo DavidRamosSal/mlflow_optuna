@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e3cd24d12351426ea0a8cbb321217821/artifacts
+end_time: 1732127249723
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e3cd24d12351426ea0a8cbb321217821
+run_name: sincere-sloth-231
+run_uuid: e3cd24d12351426ea0a8cbb321217821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127249631
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1219628abe524a018816a9f8fe5bda54/artifacts
+end_time: 1732127246943
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1219628abe524a018816a9f8fe5bda54
+run_name: luminous-roo-223
+run_uuid: 1219628abe524a018816a9f8fe5bda54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127246900
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/7e49b7a33f4d41ebb2d603af1f5586fc/artifacts
+end_time: 1732127250361
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 7e49b7a33f4d41ebb2d603af1f5586fc
+run_name: worried-owl-942
+run_uuid: 7e49b7a33f4d41ebb2d603af1f5586fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127250319
+status: 3
+tags: []
+user_id: dave

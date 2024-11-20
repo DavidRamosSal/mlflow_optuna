@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/daab63f97eb24f4fb1b256702339db72/artifacts
+end_time: 1732127241532
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: daab63f97eb24f4fb1b256702339db72
+run_name: gentle-foal-76
+run_uuid: daab63f97eb24f4fb1b256702339db72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127241490
+status: 3
+tags: []
+user_id: dave

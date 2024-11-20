@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e48ea2f273b14da1b17dcecfc1ac4892/artifacts
+end_time: 1732127239475
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e48ea2f273b14da1b17dcecfc1ac4892
+run_name: glamorous-jay-503
+run_uuid: e48ea2f273b14da1b17dcecfc1ac4892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239437
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/cf16a5aad004438795392a2e1ec0796c/artifacts
+end_time: 1732127244156
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: cf16a5aad004438795392a2e1ec0796c
+run_name: chill-bat-135
+run_uuid: cf16a5aad004438795392a2e1ec0796c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127244068
+status: 3
+tags: []
+user_id: dave

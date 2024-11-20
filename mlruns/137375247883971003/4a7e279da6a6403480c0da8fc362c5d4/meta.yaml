@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4a7e279da6a6403480c0da8fc362c5d4/artifacts
+end_time: 1732127230334
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4a7e279da6a6403480c0da8fc362c5d4
+run_name: clumsy-flea-574
+run_uuid: 4a7e279da6a6403480c0da8fc362c5d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127230298
+status: 3
+tags: []
+user_id: dave

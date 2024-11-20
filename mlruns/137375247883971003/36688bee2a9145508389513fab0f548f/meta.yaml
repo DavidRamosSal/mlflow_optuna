@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/36688bee2a9145508389513fab0f548f/artifacts
+end_time: 1732127228377
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 36688bee2a9145508389513fab0f548f
+run_name: agreeable-fish-385
+run_uuid: 36688bee2a9145508389513fab0f548f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228343
+status: 3
+tags: []
+user_id: dave

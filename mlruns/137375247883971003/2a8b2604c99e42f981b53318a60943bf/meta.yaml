@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/2a8b2604c99e42f981b53318a60943bf/artifacts
+end_time: 1732127231615
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 2a8b2604c99e42f981b53318a60943bf
+run_name: sneaky-shark-58
+run_uuid: 2a8b2604c99e42f981b53318a60943bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231579
+status: 3
+tags: []
+user_id: dave

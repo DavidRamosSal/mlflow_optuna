@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1ae8b75dbb4d4bc3acd4c594df5eee50/artifacts
+end_time: 1732127255057
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1ae8b75dbb4d4bc3acd4c594df5eee50
+run_name: nosy-finch-973
+run_uuid: 1ae8b75dbb4d4bc3acd4c594df5eee50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127255010
+status: 3
+tags: []
+user_id: dave

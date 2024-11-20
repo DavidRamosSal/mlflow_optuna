@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5306e3360a51416984094bb271daa58d/artifacts
+end_time: 1732127229926
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5306e3360a51416984094bb271daa58d
+run_name: glamorous-fish-505
+run_uuid: 5306e3360a51416984094bb271daa58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229893
+status: 3
+tags: []
+user_id: dave

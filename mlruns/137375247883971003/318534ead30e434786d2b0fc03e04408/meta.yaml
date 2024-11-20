@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/318534ead30e434786d2b0fc03e04408/artifacts
+end_time: 1732127230057
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 318534ead30e434786d2b0fc03e04408
+run_name: resilient-toad-206
+run_uuid: 318534ead30e434786d2b0fc03e04408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229975
+status: 3
+tags: []
+user_id: dave

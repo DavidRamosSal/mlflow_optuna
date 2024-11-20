@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/a5fa19f843344030a3fc060b0c0e37c8/artifacts
+end_time: 1732127250002
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: a5fa19f843344030a3fc060b0c0e37c8
+run_name: delightful-gnat-232
+run_uuid: a5fa19f843344030a3fc060b0c0e37c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127249958
+status: 3
+tags: []
+user_id: dave

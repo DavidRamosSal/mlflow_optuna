@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/cdf299fc5b5e40c6b7e2fa1ba0b9b61d/artifacts
+end_time: 1732127253547
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: cdf299fc5b5e40c6b7e2fa1ba0b9b61d
+run_name: orderly-asp-164
+run_uuid: cdf299fc5b5e40c6b7e2fa1ba0b9b61d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253501
+status: 3
+tags: []
+user_id: dave

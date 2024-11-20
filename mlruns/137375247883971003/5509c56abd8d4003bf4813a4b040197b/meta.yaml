@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5509c56abd8d4003bf4813a4b040197b/artifacts
+end_time: 1732127243812
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5509c56abd8d4003bf4813a4b040197b
+run_name: stylish-kite-853
+run_uuid: 5509c56abd8d4003bf4813a4b040197b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243753
+status: 3
+tags: []
+user_id: dave

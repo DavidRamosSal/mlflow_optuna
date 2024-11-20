@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/181315e1b2714a838e03d52519293747/artifacts
+end_time: 1732127237099
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 181315e1b2714a838e03d52519293747
+run_name: likeable-seal-643
+run_uuid: 181315e1b2714a838e03d52519293747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127237054
+status: 3
+tags: []
+user_id: dave

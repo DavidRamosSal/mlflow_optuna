@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/061837d21e124310af5a20cedfb278ae/artifacts
+end_time: 1732127226842
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 061837d21e124310af5a20cedfb278ae
+run_name: nebulous-midge-937
+run_uuid: 061837d21e124310af5a20cedfb278ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226806
+status: 3
+tags: []
+user_id: dave

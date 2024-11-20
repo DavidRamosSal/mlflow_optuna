@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1a0de7a2c4c34bec9112e9d08e8175f1/artifacts
+end_time: 1732127240400
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1a0de7a2c4c34bec9112e9d08e8175f1
+run_name: beautiful-bear-99
+run_uuid: 1a0de7a2c4c34bec9112e9d08e8175f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240362
+status: 3
+tags: []
+user_id: dave

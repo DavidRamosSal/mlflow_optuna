@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/7ab3ca0ab26f41b8adad76be9f8e11e3/artifacts
+end_time: 1732127252508
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 7ab3ca0ab26f41b8adad76be9f8e11e3
+run_name: clean-calf-571
+run_uuid: 7ab3ca0ab26f41b8adad76be9f8e11e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127252463
+status: 3
+tags: []
+user_id: dave

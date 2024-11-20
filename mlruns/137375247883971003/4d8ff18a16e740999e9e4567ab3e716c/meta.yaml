@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4d8ff18a16e740999e9e4567ab3e716c/artifacts
+end_time: 1732127248305
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4d8ff18a16e740999e9e4567ab3e716c
+run_name: adventurous-hound-89
+run_uuid: 4d8ff18a16e740999e9e4567ab3e716c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127248262
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6de31cc9197e4468b8b8e15956b091cf/artifacts
+end_time: 1732127236371
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6de31cc9197e4468b8b8e15956b091cf
+run_name: marvelous-cod-65
+run_uuid: 6de31cc9197e4468b8b8e15956b091cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127236333
+status: 3
+tags: []
+user_id: dave

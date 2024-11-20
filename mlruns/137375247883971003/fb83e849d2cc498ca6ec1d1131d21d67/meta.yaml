@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/fb83e849d2cc498ca6ec1d1131d21d67/artifacts
+end_time: 1732127234535
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: fb83e849d2cc498ca6ec1d1131d21d67
+run_name: bemused-shoat-757
+run_uuid: fb83e849d2cc498ca6ec1d1131d21d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127234497
+status: 3
+tags: []
+user_id: dave

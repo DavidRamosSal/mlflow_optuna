@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/b83c5e88d74c40b4a1a06b25bd575b05/artifacts
+end_time: 1732127229178
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: b83c5e88d74c40b4a1a06b25bd575b05
+run_name: clumsy-shrike-475
+run_uuid: b83c5e88d74c40b4a1a06b25bd575b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229142
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/209349640cea45ec80f4f7d73502b86f/artifacts
+end_time: 1732127239730
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 209349640cea45ec80f4f7d73502b86f
+run_name: invincible-panda-425
+run_uuid: 209349640cea45ec80f4f7d73502b86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239693
+status: 3
+tags: []
+user_id: dave

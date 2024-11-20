@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e34d41003b3845cb99bb12402ce8e85b/artifacts
+end_time: 1732127240464
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e34d41003b3845cb99bb12402ce8e85b
+run_name: bouncy-gnat-268
+run_uuid: e34d41003b3845cb99bb12402ce8e85b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240408
+status: 3
+tags: []
+user_id: dave

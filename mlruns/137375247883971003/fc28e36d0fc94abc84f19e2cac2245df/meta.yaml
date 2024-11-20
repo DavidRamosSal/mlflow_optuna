@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/fc28e36d0fc94abc84f19e2cac2245df/artifacts
+end_time: 1732127239543
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: fc28e36d0fc94abc84f19e2cac2245df
+run_name: intrigued-elk-14
+run_uuid: fc28e36d0fc94abc84f19e2cac2245df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239481
+status: 3
+tags: []
+user_id: dave

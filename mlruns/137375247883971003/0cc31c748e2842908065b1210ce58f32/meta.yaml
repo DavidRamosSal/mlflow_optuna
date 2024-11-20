@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0cc31c748e2842908065b1210ce58f32/artifacts
+end_time: 1732127230900
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0cc31c748e2842908065b1210ce58f32
+run_name: gentle-asp-73
+run_uuid: 0cc31c748e2842908065b1210ce58f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127230865
+status: 3
+tags: []
+user_id: dave

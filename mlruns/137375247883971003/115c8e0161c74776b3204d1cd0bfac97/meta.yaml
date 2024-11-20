@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/115c8e0161c74776b3204d1cd0bfac97/artifacts
+end_time: 1732127226581
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 115c8e0161c74776b3204d1cd0bfac97
+run_name: handsome-kit-247
+run_uuid: 115c8e0161c74776b3204d1cd0bfac97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226554
+status: 3
+tags: []
+user_id: dave

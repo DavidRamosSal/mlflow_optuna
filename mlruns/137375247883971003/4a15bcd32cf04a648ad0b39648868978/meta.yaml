@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4a15bcd32cf04a648ad0b39648868978/artifacts
+end_time: 1732127249951
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4a15bcd32cf04a648ad0b39648868978
+run_name: whimsical-donkey-799
+run_uuid: 4a15bcd32cf04a648ad0b39648868978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127249907
+status: 3
+tags: []
+user_id: dave

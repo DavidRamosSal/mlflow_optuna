@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/444b696239c14f2d9b9e3cc5f2bbef4a/artifacts
+end_time: 1732127253295
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 444b696239c14f2d9b9e3cc5f2bbef4a
+run_name: redolent-snipe-647
+run_uuid: 444b696239c14f2d9b9e3cc5f2bbef4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253246
+status: 3
+tags: []
+user_id: dave

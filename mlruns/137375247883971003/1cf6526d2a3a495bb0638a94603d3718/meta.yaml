@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1cf6526d2a3a495bb0638a94603d3718/artifacts
+end_time: 1732127237262
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1cf6526d2a3a495bb0638a94603d3718
+run_name: painted-moose-987
+run_uuid: 1cf6526d2a3a495bb0638a94603d3718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127237225
+status: 3
+tags: []
+user_id: dave

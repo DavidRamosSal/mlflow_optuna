@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5fb07fe118e84bb8bafa6b945cc2f1df/artifacts
+end_time: 1732127228485
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5fb07fe118e84bb8bafa6b945cc2f1df
+run_name: overjoyed-slug-326
+run_uuid: 5fb07fe118e84bb8bafa6b945cc2f1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228452
+status: 3
+tags: []
+user_id: dave

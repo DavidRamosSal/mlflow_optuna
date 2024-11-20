@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/da7c6b76196b4629a7ac9da71a7314de/artifacts
+end_time: 1732127228092
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: da7c6b76196b4629a7ac9da71a7314de
+run_name: glamorous-chimp-474
+run_uuid: da7c6b76196b4629a7ac9da71a7314de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228036
+status: 3
+tags: []
+user_id: dave

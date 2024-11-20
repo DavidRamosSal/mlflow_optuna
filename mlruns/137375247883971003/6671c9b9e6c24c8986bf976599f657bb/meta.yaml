@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6671c9b9e6c24c8986bf976599f657bb/artifacts
+end_time: 1732127236555
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6671c9b9e6c24c8986bf976599f657bb
+run_name: judicious-flea-690
+run_uuid: 6671c9b9e6c24c8986bf976599f657bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127236520
+status: 3
+tags: []
+user_id: dave

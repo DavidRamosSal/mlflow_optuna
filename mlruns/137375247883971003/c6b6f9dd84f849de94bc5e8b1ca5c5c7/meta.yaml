@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c6b6f9dd84f849de94bc5e8b1ca5c5c7/artifacts
+end_time: 1732127254856
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c6b6f9dd84f849de94bc5e8b1ca5c5c7
+run_name: flawless-fawn-51
+run_uuid: c6b6f9dd84f849de94bc5e8b1ca5c5c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254811
+status: 3
+tags: []
+user_id: dave

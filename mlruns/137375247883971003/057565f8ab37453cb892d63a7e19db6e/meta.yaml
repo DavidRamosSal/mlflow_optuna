@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/057565f8ab37453cb892d63a7e19db6e/artifacts
+end_time: 1732127241633
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 057565f8ab37453cb892d63a7e19db6e
+run_name: omniscient-conch-625
+run_uuid: 057565f8ab37453cb892d63a7e19db6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127241590
+status: 3
+tags: []
+user_id: dave

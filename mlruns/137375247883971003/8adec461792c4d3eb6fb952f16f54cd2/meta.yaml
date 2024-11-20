@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/8adec461792c4d3eb6fb952f16f54cd2/artifacts
+end_time: 1732127239430
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 8adec461792c4d3eb6fb952f16f54cd2
+run_name: rogue-toad-840
+run_uuid: 8adec461792c4d3eb6fb952f16f54cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239391
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/dd2334767b3f4738888990c34d49bc22/artifacts
+end_time: 1732127233999
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: dd2334767b3f4738888990c34d49bc22
+run_name: bittersweet-mink-631
+run_uuid: dd2334767b3f4738888990c34d49bc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127233963
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/318b41478e6e451ea98db7ebf58a322e/artifacts
+end_time: 1732127242638
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 318b41478e6e451ea98db7ebf58a322e
+run_name: aged-hog-750
+run_uuid: 318b41478e6e451ea98db7ebf58a322e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242397
+status: 3
+tags: []
+user_id: dave

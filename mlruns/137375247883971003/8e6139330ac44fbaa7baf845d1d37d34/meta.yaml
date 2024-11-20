@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/8e6139330ac44fbaa7baf845d1d37d34/artifacts
+end_time: 1732127232085
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 8e6139330ac44fbaa7baf845d1d37d34
+run_name: luminous-fox-352
+run_uuid: 8e6139330ac44fbaa7baf845d1d37d34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127232052
+status: 3
+tags: []
+user_id: dave

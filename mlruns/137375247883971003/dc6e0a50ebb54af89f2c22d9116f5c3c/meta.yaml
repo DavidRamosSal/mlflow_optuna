@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/dc6e0a50ebb54af89f2c22d9116f5c3c/artifacts
+end_time: 1732127242964
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: dc6e0a50ebb54af89f2c22d9116f5c3c
+run_name: illustrious-owl-527
+run_uuid: dc6e0a50ebb54af89f2c22d9116f5c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242922
+status: 3
+tags: []
+user_id: dave

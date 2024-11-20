@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5ca06b8442b247f5aef7028596b3f62b/artifacts
+end_time: 1732127240809
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5ca06b8442b247f5aef7028596b3f62b
+run_name: silent-rat-780
+run_uuid: 5ca06b8442b247f5aef7028596b3f62b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240778
+status: 3
+tags: []
+user_id: dave

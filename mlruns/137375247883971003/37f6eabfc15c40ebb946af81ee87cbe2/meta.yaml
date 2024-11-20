@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/37f6eabfc15c40ebb946af81ee87cbe2/artifacts
+end_time: 1732127246802
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 37f6eabfc15c40ebb946af81ee87cbe2
+run_name: righteous-cat-903
+run_uuid: 37f6eabfc15c40ebb946af81ee87cbe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127246621
+status: 3
+tags: []
+user_id: dave

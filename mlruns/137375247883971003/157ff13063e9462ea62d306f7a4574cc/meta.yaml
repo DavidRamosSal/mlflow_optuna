@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/157ff13063e9462ea62d306f7a4574cc/artifacts
+end_time: 1732127231130
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 157ff13063e9462ea62d306f7a4574cc
+run_name: glamorous-pug-658
+run_uuid: 157ff13063e9462ea62d306f7a4574cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231089
+status: 3
+tags: []
+user_id: dave

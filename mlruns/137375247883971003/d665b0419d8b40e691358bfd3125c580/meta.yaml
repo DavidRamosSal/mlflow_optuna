@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d665b0419d8b40e691358bfd3125c580/artifacts
+end_time: 1732127235315
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d665b0419d8b40e691358bfd3125c580
+run_name: mysterious-wren-382
+run_uuid: d665b0419d8b40e691358bfd3125c580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235279
+status: 3
+tags: []
+user_id: dave

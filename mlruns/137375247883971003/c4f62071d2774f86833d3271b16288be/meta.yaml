@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c4f62071d2774f86833d3271b16288be/artifacts
+end_time: 1732127242198
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c4f62071d2774f86833d3271b16288be
+run_name: bedecked-ray-122
+run_uuid: c4f62071d2774f86833d3271b16288be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242156
+status: 3
+tags: []
+user_id: dave

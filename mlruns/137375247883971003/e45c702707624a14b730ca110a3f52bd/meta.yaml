@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e45c702707624a14b730ca110a3f52bd/artifacts
+end_time: 1732127253963
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e45c702707624a14b730ca110a3f52bd
+run_name: carefree-shrimp-834
+run_uuid: e45c702707624a14b730ca110a3f52bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253912
+status: 3
+tags: []
+user_id: dave

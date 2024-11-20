@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/75412aa056004377a99ff1546e1aef4e/artifacts
+end_time: 1732127249520
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 75412aa056004377a99ff1546e1aef4e
+run_name: delicate-sponge-319
+run_uuid: 75412aa056004377a99ff1546e1aef4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127249475
+status: 3
+tags: []
+user_id: dave

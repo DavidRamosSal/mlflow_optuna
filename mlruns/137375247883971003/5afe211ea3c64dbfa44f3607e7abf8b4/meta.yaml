@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5afe211ea3c64dbfa44f3607e7abf8b4/artifacts
+end_time: 1732127247964
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5afe211ea3c64dbfa44f3607e7abf8b4
+run_name: marvelous-worm-455
+run_uuid: 5afe211ea3c64dbfa44f3607e7abf8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247921
+status: 3
+tags: []
+user_id: dave

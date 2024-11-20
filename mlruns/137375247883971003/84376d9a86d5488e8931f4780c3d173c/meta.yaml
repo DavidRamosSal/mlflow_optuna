@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/84376d9a86d5488e8931f4780c3d173c/artifacts
+end_time: 1732127236513
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 84376d9a86d5488e8931f4780c3d173c
+run_name: chill-doe-575
+run_uuid: 84376d9a86d5488e8931f4780c3d173c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127236465
+status: 3
+tags: []
+user_id: dave

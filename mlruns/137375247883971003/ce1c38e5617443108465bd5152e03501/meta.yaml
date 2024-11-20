@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/ce1c38e5617443108465bd5152e03501/artifacts
+end_time: 1732127247352
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: ce1c38e5617443108465bd5152e03501
+run_name: fearless-slug-410
+run_uuid: ce1c38e5617443108465bd5152e03501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247259
+status: 3
+tags: []
+user_id: dave

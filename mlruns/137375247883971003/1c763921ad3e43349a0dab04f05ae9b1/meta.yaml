@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1c763921ad3e43349a0dab04f05ae9b1/artifacts
+end_time: 1732127230683
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1c763921ad3e43349a0dab04f05ae9b1
+run_name: amusing-smelt-311
+run_uuid: 1c763921ad3e43349a0dab04f05ae9b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127230643
+status: 3
+tags: []
+user_id: dave

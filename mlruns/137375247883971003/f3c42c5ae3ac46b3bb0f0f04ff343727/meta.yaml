@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f3c42c5ae3ac46b3bb0f0f04ff343727/artifacts
+end_time: 1732127248454
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f3c42c5ae3ac46b3bb0f0f04ff343727
+run_name: caring-grub-57
+run_uuid: f3c42c5ae3ac46b3bb0f0f04ff343727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127248409
+status: 3
+tags: []
+user_id: dave

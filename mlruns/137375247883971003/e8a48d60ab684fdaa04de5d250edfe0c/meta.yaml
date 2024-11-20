@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e8a48d60ab684fdaa04de5d250edfe0c/artifacts
+end_time: 1732127234281
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e8a48d60ab684fdaa04de5d250edfe0c
+run_name: thundering-goat-889
+run_uuid: e8a48d60ab684fdaa04de5d250edfe0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127234241
+status: 3
+tags: []
+user_id: dave

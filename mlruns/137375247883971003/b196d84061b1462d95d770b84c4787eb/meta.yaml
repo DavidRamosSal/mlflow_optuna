@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/b196d84061b1462d95d770b84c4787eb/artifacts
+end_time: 1732127247610
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: b196d84061b1462d95d770b84c4787eb
+run_name: upset-cub-272
+run_uuid: b196d84061b1462d95d770b84c4787eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247564
+status: 3
+tags: []
+user_id: dave

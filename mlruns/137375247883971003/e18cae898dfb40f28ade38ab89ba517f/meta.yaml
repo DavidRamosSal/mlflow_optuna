@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e18cae898dfb40f28ade38ab89ba517f/artifacts
+end_time: 1732127243217
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e18cae898dfb40f28ade38ab89ba517f
+run_name: youthful-grub-769
+run_uuid: e18cae898dfb40f28ade38ab89ba517f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243178
+status: 3
+tags: []
+user_id: dave

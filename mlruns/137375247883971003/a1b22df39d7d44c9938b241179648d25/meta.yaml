@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/a1b22df39d7d44c9938b241179648d25/artifacts
+end_time: 1732127239932
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: a1b22df39d7d44c9938b241179648d25
+run_name: rogue-ox-503
+run_uuid: a1b22df39d7d44c9938b241179648d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239888
+status: 3
+tags: []
+user_id: dave

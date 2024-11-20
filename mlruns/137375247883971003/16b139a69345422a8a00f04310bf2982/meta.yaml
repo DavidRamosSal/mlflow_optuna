@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/16b139a69345422a8a00f04310bf2982/artifacts
+end_time: 1732127237744
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 16b139a69345422a8a00f04310bf2982
+run_name: marvelous-stoat-163
+run_uuid: 16b139a69345422a8a00f04310bf2982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127237696
+status: 3
+tags: []
+user_id: dave

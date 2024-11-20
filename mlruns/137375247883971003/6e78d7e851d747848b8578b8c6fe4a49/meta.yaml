@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6e78d7e851d747848b8578b8c6fe4a49/artifacts
+end_time: 1732127227685
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6e78d7e851d747848b8578b8c6fe4a49
+run_name: likeable-finch-435
+run_uuid: 6e78d7e851d747848b8578b8c6fe4a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127227576
+status: 3
+tags: []
+user_id: dave

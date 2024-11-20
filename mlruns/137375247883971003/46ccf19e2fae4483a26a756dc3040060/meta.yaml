@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/46ccf19e2fae4483a26a756dc3040060/artifacts
+end_time: 1732127228256
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 46ccf19e2fae4483a26a756dc3040060
+run_name: fearless-newt-523
+run_uuid: 46ccf19e2fae4483a26a756dc3040060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228223
+status: 3
+tags: []
+user_id: dave

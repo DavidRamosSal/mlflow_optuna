@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/328a315886c24148a758398c87735368/artifacts
+end_time: 1732127233605
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 328a315886c24148a758398c87735368
+run_name: painted-carp-751
+run_uuid: 328a315886c24148a758398c87735368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127233571
+status: 3
+tags: []
+user_id: dave

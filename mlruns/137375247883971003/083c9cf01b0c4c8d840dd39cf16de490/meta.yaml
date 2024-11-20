@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/083c9cf01b0c4c8d840dd39cf16de490/artifacts
+end_time: 1732127228031
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 083c9cf01b0c4c8d840dd39cf16de490
+run_name: abrasive-ray-200
+run_uuid: 083c9cf01b0c4c8d840dd39cf16de490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127227973
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/ab82acb0537a4ab08c20d80bae77eddd/artifacts
+end_time: 1732127238370
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: ab82acb0537a4ab08c20d80bae77eddd
+run_name: angry-conch-118
+run_uuid: ab82acb0537a4ab08c20d80bae77eddd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127238332
+status: 3
+tags: []
+user_id: dave

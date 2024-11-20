@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4d56955395704da2a3203ae25d82b027/artifacts
+end_time: 1732127245614
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4d56955395704da2a3203ae25d82b027
+run_name: big-seal-274
+run_uuid: 4d56955395704da2a3203ae25d82b027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127245574
+status: 3
+tags: []
+user_id: dave

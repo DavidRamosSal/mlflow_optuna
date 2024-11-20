@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/ed7410bcc6a04508ba49ff7f6e2a90d2/artifacts
+end_time: 1732127253330
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: ed7410bcc6a04508ba49ff7f6e2a90d2
+run_name: upset-mole-145
+run_uuid: ed7410bcc6a04508ba49ff7f6e2a90d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253302
+status: 3
+tags: []
+user_id: dave

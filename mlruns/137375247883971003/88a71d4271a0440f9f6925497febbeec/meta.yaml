@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/88a71d4271a0440f9f6925497febbeec/artifacts
+end_time: 1732127229261
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 88a71d4271a0440f9f6925497febbeec
+run_name: resilient-cub-33
+run_uuid: 88a71d4271a0440f9f6925497febbeec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229228
+status: 3
+tags: []
+user_id: dave

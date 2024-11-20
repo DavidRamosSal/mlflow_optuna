@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/10edd941718a415793368dd63d4f2c8d/artifacts
+end_time: 1732127233872
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 10edd941718a415793368dd63d4f2c8d
+run_name: big-ox-56
+run_uuid: 10edd941718a415793368dd63d4f2c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127233836
+status: 3
+tags: []
+user_id: dave

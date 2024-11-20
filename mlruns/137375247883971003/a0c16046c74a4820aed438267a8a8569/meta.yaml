@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/a0c16046c74a4820aed438267a8a8569/artifacts
+end_time: 1732127246513
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: a0c16046c74a4820aed438267a8a8569
+run_name: youthful-croc-459
+run_uuid: a0c16046c74a4820aed438267a8a8569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127246469
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/ac3245b13c524f128367fd9044f24d15/artifacts
+end_time: 1732127238420
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: ac3245b13c524f128367fd9044f24d15
+run_name: auspicious-ant-31
+run_uuid: ac3245b13c524f128367fd9044f24d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127238378
+status: 3
+tags: []
+user_id: dave

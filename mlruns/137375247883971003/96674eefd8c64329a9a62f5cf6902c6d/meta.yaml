@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/96674eefd8c64329a9a62f5cf6902c6d/artifacts
+end_time: 1732127240610
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 96674eefd8c64329a9a62f5cf6902c6d
+run_name: ambitious-perch-803
+run_uuid: 96674eefd8c64329a9a62f5cf6902c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240524
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/cbbbff53f1654130b6303c935ea68da5/artifacts
+end_time: 1732127227336
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: cbbbff53f1654130b6303c935ea68da5
+run_name: colorful-foal-743
+run_uuid: cbbbff53f1654130b6303c935ea68da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127227303
+status: 3
+tags: []
+user_id: dave

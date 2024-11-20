@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c94bc36d71484f8e98804f9a0760d009/artifacts
+end_time: 1732127241482
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c94bc36d71484f8e98804f9a0760d009
+run_name: legendary-mule-272
+run_uuid: c94bc36d71484f8e98804f9a0760d009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240910
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c6ad4394b12243a393c9ef12c054804c/artifacts
+end_time: 1732127229727
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c6ad4394b12243a393c9ef12c054804c
+run_name: bright-slug-226
+run_uuid: c6ad4394b12243a393c9ef12c054804c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229676
+status: 3
+tags: []
+user_id: dave

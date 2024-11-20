@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0fbf1788eb6c4846bc5614bc4c436ed0/artifacts
+end_time: 1732127254303
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0fbf1788eb6c4846bc5614bc4c436ed0
+run_name: monumental-carp-150
+run_uuid: 0fbf1788eb6c4846bc5614bc4c436ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254251
+status: 3
+tags: []
+user_id: dave

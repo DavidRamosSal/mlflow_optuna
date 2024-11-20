@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/394775cecd19442a9fb74a7f4b17fabd/artifacts
+end_time: 1732127230636
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 394775cecd19442a9fb74a7f4b17fabd
+run_name: redolent-rook-755
+run_uuid: 394775cecd19442a9fb74a7f4b17fabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127230557
+status: 3
+tags: []
+user_id: dave

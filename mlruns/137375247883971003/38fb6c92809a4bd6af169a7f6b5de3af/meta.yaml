@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/38fb6c92809a4bd6af169a7f6b5de3af/artifacts
+end_time: 1732127239385
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 38fb6c92809a4bd6af169a7f6b5de3af
+run_name: powerful-rook-737
+run_uuid: 38fb6c92809a4bd6af169a7f6b5de3af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239341
+status: 3
+tags: []
+user_id: dave

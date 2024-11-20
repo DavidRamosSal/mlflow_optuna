@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c880549ae08248fbb64218446e403fae/artifacts
+end_time: 1732127235727
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c880549ae08248fbb64218446e403fae
+run_name: abrasive-mare-663
+run_uuid: c880549ae08248fbb64218446e403fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235673
+status: 3
+tags: []
+user_id: dave

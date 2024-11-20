@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/2c8b446110cd4796bd33435e24f92172/artifacts
+end_time: 1732127229590
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 2c8b446110cd4796bd33435e24f92172
+run_name: valuable-flea-990
+run_uuid: 2c8b446110cd4796bd33435e24f92172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229528
+status: 3
+tags: []
+user_id: dave

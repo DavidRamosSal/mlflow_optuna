@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/bbef5c56348648f3aa44a74b35cada74/artifacts
+end_time: 1732127247202
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: bbef5c56348648f3aa44a74b35cada74
+run_name: nimble-shoat-374
+run_uuid: bbef5c56348648f3aa44a74b35cada74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247164
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0d9ae082e535440db34ef586b3ebc703/artifacts
+end_time: 1732127238463
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0d9ae082e535440db34ef586b3ebc703
+run_name: silent-hen-691
+run_uuid: 0d9ae082e535440db34ef586b3ebc703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127238427
+status: 3
+tags: []
+user_id: dave

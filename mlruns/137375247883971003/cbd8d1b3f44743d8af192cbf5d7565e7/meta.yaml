@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/cbd8d1b3f44743d8af192cbf5d7565e7/artifacts
+end_time: 1732127242830
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: cbd8d1b3f44743d8af192cbf5d7565e7
+run_name: worried-mare-434
+run_uuid: cbd8d1b3f44743d8af192cbf5d7565e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242746
+status: 3
+tags: []
+user_id: dave

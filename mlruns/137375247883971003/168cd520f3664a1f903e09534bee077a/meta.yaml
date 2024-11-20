@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/168cd520f3664a1f903e09534bee077a/artifacts
+end_time: 1732127242916
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 168cd520f3664a1f903e09534bee077a
+run_name: selective-lynx-75
+run_uuid: 168cd520f3664a1f903e09534bee077a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242890
+status: 3
+tags: []
+user_id: dave

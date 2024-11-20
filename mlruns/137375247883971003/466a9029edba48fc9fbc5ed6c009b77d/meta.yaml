@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/466a9029edba48fc9fbc5ed6c009b77d/artifacts
+end_time: 1732127232327
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 466a9029edba48fc9fbc5ed6c009b77d
+run_name: upbeat-shrike-647
+run_uuid: 466a9029edba48fc9fbc5ed6c009b77d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127232292
+status: 3
+tags: []
+user_id: dave

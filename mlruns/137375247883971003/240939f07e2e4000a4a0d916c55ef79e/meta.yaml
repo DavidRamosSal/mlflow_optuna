@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/240939f07e2e4000a4a0d916c55ef79e/artifacts
+end_time: 1732127231004
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 240939f07e2e4000a4a0d916c55ef79e
+run_name: treasured-koi-85
+run_uuid: 240939f07e2e4000a4a0d916c55ef79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127230947
+status: 3
+tags: []
+user_id: dave

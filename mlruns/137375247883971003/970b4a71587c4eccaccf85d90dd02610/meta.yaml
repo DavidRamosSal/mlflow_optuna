@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/970b4a71587c4eccaccf85d90dd02610/artifacts
+end_time: 1732127237311
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 970b4a71587c4eccaccf85d90dd02610
+run_name: delightful-mouse-246
+run_uuid: 970b4a71587c4eccaccf85d90dd02610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127237268
+status: 3
+tags: []
+user_id: dave

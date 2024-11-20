@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/98a8865c9cac4015a8178b6605c0268b/artifacts
+end_time: 1732127228217
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 98a8865c9cac4015a8178b6605c0268b
+run_name: rogue-calf-288
+run_uuid: 98a8865c9cac4015a8178b6605c0268b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228182
+status: 3
+tags: []
+user_id: dave

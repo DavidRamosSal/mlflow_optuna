@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/74ff522bbcf24246941740a220712d49/artifacts
+end_time: 1732127246170
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 74ff522bbcf24246941740a220712d49
+run_name: learned-dove-625
+run_uuid: 74ff522bbcf24246941740a220712d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127246124
+status: 3
+tags: []
+user_id: dave

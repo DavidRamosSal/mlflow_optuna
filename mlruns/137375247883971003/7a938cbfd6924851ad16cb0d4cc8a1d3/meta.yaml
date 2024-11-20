@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/7a938cbfd6924851ad16cb0d4cc8a1d3/artifacts
+end_time: 1732127249308
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 7a938cbfd6924851ad16cb0d4cc8a1d3
+run_name: grandiose-cat-666
+run_uuid: 7a938cbfd6924851ad16cb0d4cc8a1d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127249262
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/b1806a0a1e424d0995259b666cd4758e/artifacts
+end_time: 1732127253704
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: b1806a0a1e424d0995259b666cd4758e
+run_name: whimsical-tern-311
+run_uuid: b1806a0a1e424d0995259b666cd4758e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253651
+status: 3
+tags: []
+user_id: dave

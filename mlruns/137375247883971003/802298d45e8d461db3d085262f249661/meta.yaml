@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/802298d45e8d461db3d085262f249661/artifacts
+end_time: 1732127243063
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 802298d45e8d461db3d085262f249661
+run_name: delicate-fish-381
+run_uuid: 802298d45e8d461db3d085262f249661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243020
+status: 3
+tags: []
+user_id: dave

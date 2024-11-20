@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e61ab30df9c74aa0a1a1ea27a6aa546f/artifacts
+end_time: 1732127239638
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e61ab30df9c74aa0a1a1ea27a6aa546f
+run_name: charming-elk-432
+run_uuid: e61ab30df9c74aa0a1a1ea27a6aa546f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239598
+status: 3
+tags: []
+user_id: dave

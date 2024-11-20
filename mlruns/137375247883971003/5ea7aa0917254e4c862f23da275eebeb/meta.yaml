@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5ea7aa0917254e4c862f23da275eebeb/artifacts
+end_time: 1732127235078
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5ea7aa0917254e4c862f23da275eebeb
+run_name: handsome-owl-517
+run_uuid: 5ea7aa0917254e4c862f23da275eebeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235040
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/210753ba7eb84ff0a5ce9772514bf9e3/artifacts
+end_time: 1732127255004
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 210753ba7eb84ff0a5ce9772514bf9e3
+run_name: judicious-midge-994
+run_uuid: 210753ba7eb84ff0a5ce9772514bf9e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254916
+status: 3
+tags: []
+user_id: dave

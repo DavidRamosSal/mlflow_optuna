@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/a402e2cd81e143da952c32d81dad8429/artifacts
+end_time: 1732127226361
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: a402e2cd81e143da952c32d81dad8429
+run_name: dazzling-ram-995
+run_uuid: a402e2cd81e143da952c32d81dad8429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226329
+status: 3
+tags: []
+user_id: dave

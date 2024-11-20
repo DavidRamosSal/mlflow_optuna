@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/44a444924b914b1294134ebda9193e48/artifacts
+end_time: 1732127230196
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 44a444924b914b1294134ebda9193e48
+run_name: ambitious-gnat-397
+run_uuid: 44a444924b914b1294134ebda9193e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127230065
+status: 3
+tags: []
+user_id: dave

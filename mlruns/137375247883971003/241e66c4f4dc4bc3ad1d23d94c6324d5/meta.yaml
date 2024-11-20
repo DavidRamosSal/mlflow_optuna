@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/241e66c4f4dc4bc3ad1d23d94c6324d5/artifacts
+end_time: 1732127226131
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 241e66c4f4dc4bc3ad1d23d94c6324d5
+run_name: traveling-mouse-729
+run_uuid: 241e66c4f4dc4bc3ad1d23d94c6324d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226105
+status: 3
+tags: []
+user_id: dave

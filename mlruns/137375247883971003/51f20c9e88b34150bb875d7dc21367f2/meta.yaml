@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/51f20c9e88b34150bb875d7dc21367f2/artifacts
+end_time: 1732127248501
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 51f20c9e88b34150bb875d7dc21367f2
+run_name: painted-crab-841
+run_uuid: 51f20c9e88b34150bb875d7dc21367f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127248461
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/a0c1ee06706340949b41ce1c6b38bf84/artifacts
+end_time: 1732127229670
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: a0c1ee06706340949b41ce1c6b38bf84
+run_name: skillful-stork-989
+run_uuid: a0c1ee06706340949b41ce1c6b38bf84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127229637
+status: 3
+tags: []
+user_id: dave

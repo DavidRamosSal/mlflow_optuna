@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/7795ff7c5d194f369ac51c7c27d0f098/artifacts
+end_time: 1732127226288
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 7795ff7c5d194f369ac51c7c27d0f098
+run_name: mercurial-asp-958
+run_uuid: 7795ff7c5d194f369ac51c7c27d0f098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226261
+status: 3
+tags: []
+user_id: dave

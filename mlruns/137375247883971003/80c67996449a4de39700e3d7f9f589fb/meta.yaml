@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/80c67996449a4de39700e3d7f9f589fb/artifacts
+end_time: 1732127234847
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 80c67996449a4de39700e3d7f9f589fb
+run_name: monumental-calf-799
+run_uuid: 80c67996449a4de39700e3d7f9f589fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127234544
+status: 3
+tags: []
+user_id: dave

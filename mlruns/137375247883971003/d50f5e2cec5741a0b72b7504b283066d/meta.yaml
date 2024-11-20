@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d50f5e2cec5741a0b72b7504b283066d/artifacts
+end_time: 1732127227430
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d50f5e2cec5741a0b72b7504b283066d
+run_name: thundering-conch-304
+run_uuid: d50f5e2cec5741a0b72b7504b283066d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127227399
+status: 3
+tags: []
+user_id: dave

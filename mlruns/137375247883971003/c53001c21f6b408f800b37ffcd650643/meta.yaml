@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c53001c21f6b408f800b37ffcd650643/artifacts
+end_time: 1732127244192
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c53001c21f6b408f800b37ffcd650643
+run_name: secretive-slug-835
+run_uuid: c53001c21f6b408f800b37ffcd650643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127244163
+status: 3
+tags: []
+user_id: dave

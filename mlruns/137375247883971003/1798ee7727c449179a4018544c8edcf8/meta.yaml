@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1798ee7727c449179a4018544c8edcf8/artifacts
+end_time: 1732127243267
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1798ee7727c449179a4018544c8edcf8
+run_name: legendary-shad-645
+run_uuid: 1798ee7727c449179a4018544c8edcf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243225
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4b0ab4a72fcf451a93177fd54bcb7ebd/artifacts
+end_time: 1732127250650
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4b0ab4a72fcf451a93177fd54bcb7ebd
+run_name: clean-lamb-283
+run_uuid: 4b0ab4a72fcf451a93177fd54bcb7ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127250511
+status: 3
+tags: []
+user_id: dave

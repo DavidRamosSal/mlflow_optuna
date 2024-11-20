@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/78185ac6b8654968acbab6c7d7be2fa2/artifacts
+end_time: 1732127239982
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 78185ac6b8654968acbab6c7d7be2fa2
+run_name: big-worm-139
+run_uuid: 78185ac6b8654968acbab6c7d7be2fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239939
+status: 3
+tags: []
+user_id: dave

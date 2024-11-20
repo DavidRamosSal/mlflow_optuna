@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c154469cc73a4be9870db7d1f2f81a23/artifacts
+end_time: 1732127234447
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c154469cc73a4be9870db7d1f2f81a23
+run_name: welcoming-bird-612
+run_uuid: c154469cc73a4be9870db7d1f2f81a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127234412
+status: 3
+tags: []
+user_id: dave

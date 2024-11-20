@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/089350eb1bc4428d860d1f513ca5db08/artifacts
+end_time: 1732127227254
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 089350eb1bc4428d860d1f513ca5db08
+run_name: bright-hawk-345
+run_uuid: 089350eb1bc4428d860d1f513ca5db08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127227221
+status: 3
+tags: []
+user_id: dave

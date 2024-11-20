@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/318fccbae1e042bf854939349f183d26/artifacts
+end_time: 1732127238130
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 318fccbae1e042bf854939349f183d26
+run_name: aged-pig-8
+run_uuid: 318fccbae1e042bf854939349f183d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127238084
+status: 3
+tags: []
+user_id: dave

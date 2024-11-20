@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/26a500498a404770a3266b4054fd55a3/artifacts
+end_time: 1732127243114
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 26a500498a404770a3266b4054fd55a3
+run_name: powerful-midge-400
+run_uuid: 26a500498a404770a3266b4054fd55a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127243070
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e00956611b2642d299d2220df18cd513/artifacts
+end_time: 1732127248153
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e00956611b2642d299d2220df18cd513
+run_name: salty-cod-808
+run_uuid: e00956611b2642d299d2220df18cd513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127248109
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4a72e65bcd19422ca2768e2da4f67146/artifacts
+end_time: 1732127237048
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4a72e65bcd19422ca2768e2da4f67146
+run_name: melodic-gull-995
+run_uuid: 4a72e65bcd19422ca2768e2da4f67146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127237013
+status: 3
+tags: []
+user_id: dave

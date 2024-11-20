@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e4bf347fad0140c8a881acfd32045079/artifacts
+end_time: 1732127242247
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e4bf347fad0140c8a881acfd32045079
+run_name: sincere-bear-169
+run_uuid: e4bf347fad0140c8a881acfd32045079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242205
+status: 3
+tags: []
+user_id: dave

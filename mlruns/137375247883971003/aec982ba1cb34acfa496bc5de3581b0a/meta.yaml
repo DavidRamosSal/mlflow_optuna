@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/aec982ba1cb34acfa496bc5de3581b0a/artifacts
+end_time: 1732127235580
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: aec982ba1cb34acfa496bc5de3581b0a
+run_name: glamorous-bear-956
+run_uuid: aec982ba1cb34acfa496bc5de3581b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235502
+status: 3
+tags: []
+user_id: dave

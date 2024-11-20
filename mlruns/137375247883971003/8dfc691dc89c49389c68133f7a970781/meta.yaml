@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/8dfc691dc89c49389c68133f7a970781/artifacts
+end_time: 1732127252007
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 8dfc691dc89c49389c68133f7a970781
+run_name: clean-donkey-871
+run_uuid: 8dfc691dc89c49389c68133f7a970781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127251953
+status: 3
+tags: []
+user_id: dave

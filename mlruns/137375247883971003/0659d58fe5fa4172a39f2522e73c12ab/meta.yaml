@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0659d58fe5fa4172a39f2522e73c12ab/artifacts
+end_time: 1732127249573
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0659d58fe5fa4172a39f2522e73c12ab
+run_name: kindly-mole-827
+run_uuid: 0659d58fe5fa4172a39f2522e73c12ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127249528
+status: 3
+tags: []
+user_id: dave

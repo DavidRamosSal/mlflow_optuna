@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6527f1cbcceb4550aa4de08cdffd89e1/artifacts
+end_time: 1732127247663
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6527f1cbcceb4550aa4de08cdffd89e1
+run_name: languid-auk-700
+run_uuid: 6527f1cbcceb4550aa4de08cdffd89e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247617
+status: 3
+tags: []
+user_id: dave

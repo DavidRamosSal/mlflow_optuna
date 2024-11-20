@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1c3012fa7f654fe48823d2c10b93ca86/artifacts
+end_time: 1732127225690
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1c3012fa7f654fe48823d2c10b93ca86
+run_name: invincible-lark-845
+run_uuid: 1c3012fa7f654fe48823d2c10b93ca86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127225668
+status: 3
+tags: []
+user_id: dave

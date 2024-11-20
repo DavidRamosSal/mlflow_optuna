@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/1e22bf14f57a4328b8feec716cbdb69a/artifacts
+end_time: 1732127241815
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 1e22bf14f57a4328b8feec716cbdb69a
+run_name: sassy-sow-618
+run_uuid: 1e22bf14f57a4328b8feec716cbdb69a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127241775
+status: 3
+tags: []
+user_id: dave

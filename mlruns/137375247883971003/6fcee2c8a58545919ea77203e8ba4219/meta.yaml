@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6fcee2c8a58545919ea77203e8ba4219/artifacts
+end_time: 1732127241862
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6fcee2c8a58545919ea77203e8ba4219
+run_name: indecisive-bird-727
+run_uuid: 6fcee2c8a58545919ea77203e8ba4219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127241822
+status: 3
+tags: []
+user_id: dave

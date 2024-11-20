@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0ae90720232542008f0214424dc69709/artifacts
+end_time: 1732127235034
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0ae90720232542008f0214424dc69709
+run_name: brawny-rat-430
+run_uuid: 0ae90720232542008f0214424dc69709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127234994
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/caa57690ed35452789ed7ad054df0bf9/artifacts
+end_time: 1732127230292
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: caa57690ed35452789ed7ad054df0bf9
+run_name: skittish-pug-624
+run_uuid: caa57690ed35452789ed7ad054df0bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127230256
+status: 3
+tags: []
+user_id: dave

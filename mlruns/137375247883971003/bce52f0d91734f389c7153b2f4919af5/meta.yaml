@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/bce52f0d91734f389c7153b2f4919af5/artifacts
+end_time: 1732127240856
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: bce52f0d91734f389c7153b2f4919af5
+run_name: traveling-seal-216
+run_uuid: bce52f0d91734f389c7153b2f4919af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240814
+status: 3
+tags: []
+user_id: dave

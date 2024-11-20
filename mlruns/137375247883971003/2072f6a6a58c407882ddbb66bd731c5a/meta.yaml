@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/2072f6a6a58c407882ddbb66bd731c5a/artifacts
+end_time: 1732127228938
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 2072f6a6a58c407882ddbb66bd731c5a
+run_name: languid-moose-415
+run_uuid: 2072f6a6a58c407882ddbb66bd731c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228902
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/23081473afc14b82a9b363b1b35c032f/artifacts
+end_time: 1732127237141
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 23081473afc14b82a9b363b1b35c032f
+run_name: abrasive-rook-134
+run_uuid: 23081473afc14b82a9b363b1b35c032f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127237105
+status: 3
+tags: []
+user_id: dave

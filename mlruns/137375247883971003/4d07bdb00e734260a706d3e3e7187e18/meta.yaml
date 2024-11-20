@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4d07bdb00e734260a706d3e3e7187e18/artifacts
+end_time: 1732127253643
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4d07bdb00e734260a706d3e3e7187e18
+run_name: whimsical-slug-980
+run_uuid: 4d07bdb00e734260a706d3e3e7187e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253601
+status: 3
+tags: []
+user_id: dave

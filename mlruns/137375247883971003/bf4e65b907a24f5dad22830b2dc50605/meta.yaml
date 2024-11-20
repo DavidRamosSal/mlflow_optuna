@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/bf4e65b907a24f5dad22830b2dc50605/artifacts
+end_time: 1732127240772
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: bf4e65b907a24f5dad22830b2dc50605
+run_name: big-donkey-193
+run_uuid: bf4e65b907a24f5dad22830b2dc50605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240691
+status: 3
+tags: []
+user_id: dave

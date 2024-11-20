@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f9e925f3e7b34d8082877520d1b01a8b/artifacts
+end_time: 1732127254753
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f9e925f3e7b34d8082877520d1b01a8b
+run_name: dashing-mole-696
+run_uuid: f9e925f3e7b34d8082877520d1b01a8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254708
+status: 3
+tags: []
+user_id: dave

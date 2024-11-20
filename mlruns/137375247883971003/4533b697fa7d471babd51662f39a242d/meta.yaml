@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/4533b697fa7d471babd51662f39a242d/artifacts
+end_time: 1732127237218
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 4533b697fa7d471babd51662f39a242d
+run_name: hilarious-shark-355
+run_uuid: 4533b697fa7d471babd51662f39a242d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127237147
+status: 3
+tags: []
+user_id: dave

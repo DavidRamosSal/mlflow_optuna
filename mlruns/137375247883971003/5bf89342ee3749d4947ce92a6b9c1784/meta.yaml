@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5bf89342ee3749d4947ce92a6b9c1784/artifacts
+end_time: 1732127247111
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5bf89342ee3749d4947ce92a6b9c1784
+run_name: calm-wasp-992
+run_uuid: 5bf89342ee3749d4947ce92a6b9c1784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247067
+status: 3
+tags: []
+user_id: dave

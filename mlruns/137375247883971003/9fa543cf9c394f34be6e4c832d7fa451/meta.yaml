@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/9fa543cf9c394f34be6e4c832d7fa451/artifacts
+end_time: 1732127254664
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 9fa543cf9c394f34be6e4c832d7fa451
+run_name: welcoming-wren-191
+run_uuid: 9fa543cf9c394f34be6e4c832d7fa451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254607
+status: 3
+tags: []
+user_id: dave

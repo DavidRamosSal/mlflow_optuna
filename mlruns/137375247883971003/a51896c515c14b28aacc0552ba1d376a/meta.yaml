@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/a51896c515c14b28aacc0552ba1d376a/artifacts
+end_time: 1732127231341
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: a51896c515c14b28aacc0552ba1d376a
+run_name: abundant-ray-682
+run_uuid: a51896c515c14b28aacc0552ba1d376a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231306
+status: 3
+tags: []
+user_id: dave

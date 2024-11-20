@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/9b69229421b64093856b94a6eb47e042/artifacts
+end_time: 1732127245277
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 9b69229421b64093856b94a6eb47e042
+run_name: unleashed-gnat-128
+run_uuid: 9b69229421b64093856b94a6eb47e042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127245230
+status: 3
+tags: []
+user_id: dave

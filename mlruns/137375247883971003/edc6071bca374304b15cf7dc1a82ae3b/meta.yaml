@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/edc6071bca374304b15cf7dc1a82ae3b/artifacts
+end_time: 1732127235138
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: edc6071bca374304b15cf7dc1a82ae3b
+run_name: inquisitive-bug-221
+run_uuid: edc6071bca374304b15cf7dc1a82ae3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235085
+status: 3
+tags: []
+user_id: dave

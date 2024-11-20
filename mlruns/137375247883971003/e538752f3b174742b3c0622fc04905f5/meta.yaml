@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/e538752f3b174742b3c0622fc04905f5/artifacts
+end_time: 1732127236222
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: e538752f3b174742b3c0622fc04905f5
+run_name: chill-croc-336
+run_uuid: e538752f3b174742b3c0622fc04905f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127236118
+status: 3
+tags: []
+user_id: dave

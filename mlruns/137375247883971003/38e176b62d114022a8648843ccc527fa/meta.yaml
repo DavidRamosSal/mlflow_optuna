@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/38e176b62d114022a8648843ccc527fa/artifacts
+end_time: 1732127250739
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 38e176b62d114022a8648843ccc527fa
+run_name: nimble-penguin-106
+run_uuid: 38e176b62d114022a8648843ccc527fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127250657
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/32cddf32c5034c71a74bb25d1d5014de/artifacts
+end_time: 1732127254549
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 32cddf32c5034c71a74bb25d1d5014de
+run_name: clean-stag-67
+run_uuid: 32cddf32c5034c71a74bb25d1d5014de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254505
+status: 3
+tags: []
+user_id: dave

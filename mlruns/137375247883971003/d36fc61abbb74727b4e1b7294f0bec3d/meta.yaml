@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d36fc61abbb74727b4e1b7294f0bec3d/artifacts
+end_time: 1732127226547
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d36fc61abbb74727b4e1b7294f0bec3d
+run_name: languid-mouse-396
+run_uuid: d36fc61abbb74727b4e1b7294f0bec3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226514
+status: 3
+tags: []
+user_id: dave

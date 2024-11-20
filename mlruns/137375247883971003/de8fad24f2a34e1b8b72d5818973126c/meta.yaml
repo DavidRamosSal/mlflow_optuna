@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/de8fad24f2a34e1b8b72d5818973126c/artifacts
+end_time: 1732127231299
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: de8fad24f2a34e1b8b72d5818973126c
+run_name: suave-ape-474
+run_uuid: de8fad24f2a34e1b8b72d5818973126c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231246
+status: 3
+tags: []
+user_id: dave

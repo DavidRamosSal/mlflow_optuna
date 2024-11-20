@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/6403a0fcafc54e8e8c0b624f0c2c50bb/artifacts
+end_time: 1732127235898
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 6403a0fcafc54e8e8c0b624f0c2c50bb
+run_name: upbeat-stag-488
+run_uuid: 6403a0fcafc54e8e8c0b624f0c2c50bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235868
+status: 3
+tags: []
+user_id: dave

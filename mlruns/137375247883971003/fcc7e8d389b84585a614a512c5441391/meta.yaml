@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/fcc7e8d389b84585a614a512c5441391/artifacts
+end_time: 1732127231911
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: fcc7e8d389b84585a614a512c5441391
+run_name: dapper-sponge-962
+run_uuid: fcc7e8d389b84585a614a512c5441391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231876
+status: 3
+tags: []
+user_id: dave

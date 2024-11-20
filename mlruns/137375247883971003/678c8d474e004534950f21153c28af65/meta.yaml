@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/678c8d474e004534950f21153c28af65/artifacts
+end_time: 1732127228684
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 678c8d474e004534950f21153c28af65
+run_name: overjoyed-cod-471
+run_uuid: 678c8d474e004534950f21153c28af65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228651
+status: 3
+tags: []
+user_id: dave

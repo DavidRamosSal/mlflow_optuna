@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/cabfd484a2c741f29b0b8f446c5c86c3/artifacts
+end_time: 1732127247450
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: cabfd484a2c741f29b0b8f446c5c86c3
+run_name: blushing-cat-778
+run_uuid: cabfd484a2c741f29b0b8f446c5c86c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247408
+status: 3
+tags: []
+user_id: dave

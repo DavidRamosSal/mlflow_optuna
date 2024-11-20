@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/3eb0973cbbc445b383209b90b3ff50be/artifacts
+end_time: 1732127239590
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 3eb0973cbbc445b383209b90b3ff50be
+run_name: mysterious-sheep-737
+run_uuid: 3eb0973cbbc445b383209b90b3ff50be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127239550
+status: 3
+tags: []
+user_id: dave

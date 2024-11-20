@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d0c623fdbe1149c4a0593164803efab2/artifacts
+end_time: 1732127235862
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d0c623fdbe1149c4a0593164803efab2
+run_name: capable-conch-515
+run_uuid: d0c623fdbe1149c4a0593164803efab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235826
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f7b26da4f662443789e565d40adb8b97/artifacts
+end_time: 1732127240905
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f7b26da4f662443789e565d40adb8b97
+run_name: powerful-squid-171
+run_uuid: f7b26da4f662443789e565d40adb8b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127240864
+status: 3
+tags: []
+user_id: dave

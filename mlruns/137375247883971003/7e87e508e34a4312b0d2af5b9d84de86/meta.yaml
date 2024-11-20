@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/7e87e508e34a4312b0d2af5b9d84de86/artifacts
+end_time: 1732127233956
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 7e87e508e34a4312b0d2af5b9d84de86
+run_name: judicious-cod-47
+run_uuid: 7e87e508e34a4312b0d2af5b9d84de86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127233919
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0006c942666b48749e0d3aa5dd486841/artifacts
+end_time: 1732127233736
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0006c942666b48749e0d3aa5dd486841
+run_name: agreeable-snipe-600
+run_uuid: 0006c942666b48749e0d3aa5dd486841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127233700
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/ffa67e5a65284566a1a83b0eba6b9417/artifacts
+end_time: 1732127254244
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: ffa67e5a65284566a1a83b0eba6b9417
+run_name: adorable-quail-899
+run_uuid: ffa67e5a65284566a1a83b0eba6b9417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254196
+status: 3
+tags: []
+user_id: dave

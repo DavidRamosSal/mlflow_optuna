@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0e8aaf74b59943ca95346ada094f2d62/artifacts
+end_time: 1732127231470
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0e8aaf74b59943ca95346ada094f2d62
+run_name: stylish-crab-824
+run_uuid: 0e8aaf74b59943ca95346ada094f2d62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231436
+status: 3
+tags: []
+user_id: dave

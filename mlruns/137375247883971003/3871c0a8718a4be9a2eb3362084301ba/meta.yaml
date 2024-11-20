@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/3871c0a8718a4be9a2eb3362084301ba/artifacts
+end_time: 1732127246893
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 3871c0a8718a4be9a2eb3362084301ba
+run_name: glamorous-fly-794
+run_uuid: 3871c0a8718a4be9a2eb3362084301ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127246860
+status: 3
+tags: []
+user_id: dave

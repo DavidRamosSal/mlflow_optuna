@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f07064994a8f48eb94f3ff96ea51b2fc/artifacts
+end_time: 1732127253091
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f07064994a8f48eb94f3ff96ea51b2fc
+run_name: resilient-whale-685
+run_uuid: f07064994a8f48eb94f3ff96ea51b2fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127253044
+status: 3
+tags: []
+user_id: dave

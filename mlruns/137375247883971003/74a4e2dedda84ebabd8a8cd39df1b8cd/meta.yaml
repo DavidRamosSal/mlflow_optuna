@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/74a4e2dedda84ebabd8a8cd39df1b8cd/artifacts
+end_time: 1732127226471
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 74a4e2dedda84ebabd8a8cd39df1b8cd
+run_name: puzzled-finch-531
+run_uuid: 74a4e2dedda84ebabd8a8cd39df1b8cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226442
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/3dc7167b3a294a43b10a79bf158edeb2/artifacts
+end_time: 1732127226709
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 3dc7167b3a294a43b10a79bf158edeb2
+run_name: silent-swan-898
+run_uuid: 3dc7167b3a294a43b10a79bf158edeb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226680
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/14608a36457249a199c0b0f5bdf901f3/artifacts
+end_time: 1732127252721
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 14608a36457249a199c0b0f5bdf901f3
+run_name: defiant-gnu-998
+run_uuid: 14608a36457249a199c0b0f5bdf901f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127252676
+status: 3
+tags: []
+user_id: dave

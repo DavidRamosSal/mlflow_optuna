@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/46865a3d5e9d47d69ac22ad5e71b5f92/artifacts
+end_time: 1732127245665
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 46865a3d5e9d47d69ac22ad5e71b5f92
+run_name: skittish-dolphin-854
+run_uuid: 46865a3d5e9d47d69ac22ad5e71b5f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127245620
+status: 3
+tags: []
+user_id: dave

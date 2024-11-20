@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0e8db870f3e8420e8cddcada96e299ff/artifacts
+end_time: 1732127234940
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0e8db870f3e8420e8cddcada96e299ff
+run_name: redolent-goat-866
+run_uuid: 0e8db870f3e8420e8cddcada96e299ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127234903
+status: 3
+tags: []
+user_id: dave

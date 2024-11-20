@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d8324558cc3346c4ae8a051634a8bf6d/artifacts
+end_time: 1732127231738
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d8324558cc3346c4ae8a051634a8bf6d
+run_name: awesome-frog-818
+run_uuid: d8324558cc3346c4ae8a051634a8bf6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231705
+status: 3
+tags: []
+user_id: dave

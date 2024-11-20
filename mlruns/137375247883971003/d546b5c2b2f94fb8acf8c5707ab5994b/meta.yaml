@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d546b5c2b2f94fb8acf8c5707ab5994b/artifacts
+end_time: 1732127254499
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d546b5c2b2f94fb8acf8c5707ab5994b
+run_name: mercurial-vole-804
+run_uuid: d546b5c2b2f94fb8acf8c5707ab5994b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127254424
+status: 3
+tags: []
+user_id: dave

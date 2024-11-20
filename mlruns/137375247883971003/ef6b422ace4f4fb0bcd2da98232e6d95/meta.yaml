@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/ef6b422ace4f4fb0bcd2da98232e6d95/artifacts
+end_time: 1732127231954
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: ef6b422ace4f4fb0bcd2da98232e6d95
+run_name: zealous-boar-601
+run_uuid: ef6b422ace4f4fb0bcd2da98232e6d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127231918
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0d56944d667d48ea84cae9db298f581a/artifacts
+end_time: 1732127233647
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0d56944d667d48ea84cae9db298f581a
+run_name: silent-newt-398
+run_uuid: 0d56944d667d48ea84cae9db298f581a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127233612
+status: 3
+tags: []
+user_id: dave

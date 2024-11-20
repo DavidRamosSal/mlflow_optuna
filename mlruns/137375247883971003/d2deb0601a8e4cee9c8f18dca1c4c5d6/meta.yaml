@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d2deb0601a8e4cee9c8f18dca1c4c5d6/artifacts
+end_time: 1732127244847
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d2deb0601a8e4cee9c8f18dca1c4c5d6
+run_name: ambitious-carp-398
+run_uuid: d2deb0601a8e4cee9c8f18dca1c4c5d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127244767
+status: 3
+tags: []
+user_id: dave

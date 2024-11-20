@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/d11c0119744f404298118956f3fcbf01/artifacts
+end_time: 1732127235666
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: d11c0119744f404298118956f3fcbf01
+run_name: flawless-squirrel-9
+run_uuid: d11c0119744f404298118956f3fcbf01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127235627
+status: 3
+tags: []
+user_id: dave

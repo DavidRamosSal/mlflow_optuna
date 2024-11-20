@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/f38c68280f424211ac1ee48627159adf/artifacts
+end_time: 1732127244343
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: f38c68280f424211ac1ee48627159adf
+run_name: handsome-toad-49
+run_uuid: f38c68280f424211ac1ee48627159adf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127244297
+status: 3
+tags: []
+user_id: dave

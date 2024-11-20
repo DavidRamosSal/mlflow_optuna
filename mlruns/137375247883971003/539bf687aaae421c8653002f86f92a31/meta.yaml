@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/539bf687aaae421c8653002f86f92a31/artifacts
+end_time: 1732127251190
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 539bf687aaae421c8653002f86f92a31
+run_name: redolent-ram-965
+run_uuid: 539bf687aaae421c8653002f86f92a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127250859
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/964fb321f16c4ce39c49590fbe388a2b/artifacts
+end_time: 1732127228336
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 964fb321f16c4ce39c49590fbe388a2b
+run_name: amusing-mule-695
+run_uuid: 964fb321f16c4ce39c49590fbe388a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127228302
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0a4dfb2fe28e48b992e7b8d94dc627cf/artifacts
+end_time: 1732127236327
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0a4dfb2fe28e48b992e7b8d94dc627cf
+run_name: bustling-crow-364
+run_uuid: 0a4dfb2fe28e48b992e7b8d94dc627cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127236284
+status: 3
+tags: []
+user_id: dave

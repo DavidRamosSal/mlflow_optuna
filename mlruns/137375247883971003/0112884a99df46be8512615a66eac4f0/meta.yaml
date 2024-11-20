@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/0112884a99df46be8512615a66eac4f0/artifacts
+end_time: 1732127248580
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 0112884a99df46be8512615a66eac4f0
+run_name: languid-horse-513
+run_uuid: 0112884a99df46be8512615a66eac4f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127248507
+status: 3
+tags: []
+user_id: dave

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/62c7ca4057ee4fbbbd4703698361df02/artifacts
+end_time: 1732127250262
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 62c7ca4057ee4fbbbd4703698361df02
+run_name: nervous-mouse-944
+run_uuid: 62c7ca4057ee4fbbbd4703698361df02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127250217
+status: 3
+tags: []
+user_id: dave

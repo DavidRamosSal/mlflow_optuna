@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/29be5beb053b4e9ea792e799533039ed/artifacts
+end_time: 1732127242325
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 29be5beb053b4e9ea792e799533039ed
+run_name: rebellious-crow-737
+run_uuid: 29be5beb053b4e9ea792e799533039ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127242254
+status: 3
+tags: []
+user_id: dave

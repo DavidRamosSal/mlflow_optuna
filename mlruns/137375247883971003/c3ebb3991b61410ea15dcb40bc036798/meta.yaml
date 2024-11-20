@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/c3ebb3991b61410ea15dcb40bc036798/artifacts
+end_time: 1732127226162
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: c3ebb3991b61410ea15dcb40bc036798
+run_name: bedecked-boar-374
+run_uuid: c3ebb3991b61410ea15dcb40bc036798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127226139
+status: 3
+tags: []
+user_id: dave

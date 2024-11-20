@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/a3aa41efe77e4c69a683c985de9b7908/artifacts
+end_time: 1732127232239
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: a3aa41efe77e4c69a683c985de9b7908
+run_name: popular-goat-680
+run_uuid: a3aa41efe77e4c69a683c985de9b7908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127232177
+status: 3
+tags: []
+user_id: dave

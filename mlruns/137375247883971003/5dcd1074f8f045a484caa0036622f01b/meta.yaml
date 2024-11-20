@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/5dcd1074f8f045a484caa0036622f01b/artifacts
+end_time: 1732127247557
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 5dcd1074f8f045a484caa0036622f01b
+run_name: unequaled-shrew-398
+run_uuid: 5dcd1074f8f045a484caa0036622f01b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127247512
+status: 3
+tags: []
+user_id: dave

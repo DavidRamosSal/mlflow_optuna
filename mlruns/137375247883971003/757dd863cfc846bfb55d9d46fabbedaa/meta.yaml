@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/757dd863cfc846bfb55d9d46fabbedaa/artifacts
+end_time: 1732127234059
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 757dd863cfc846bfb55d9d46fabbedaa
+run_name: dazzling-mouse-818
+run_uuid: 757dd863cfc846bfb55d9d46fabbedaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127234005
+status: 3
+tags: []
+user_id: dave

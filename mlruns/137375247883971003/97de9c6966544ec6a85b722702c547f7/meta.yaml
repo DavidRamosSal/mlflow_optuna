@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/97de9c6966544ec6a85b722702c547f7/artifacts
+end_time: 1732127232416
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 97de9c6966544ec6a85b722702c547f7
+run_name: bouncy-sheep-937
+run_uuid: 97de9c6966544ec6a85b722702c547f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127232382
+status: 3
+tags: []
+user_id: dave

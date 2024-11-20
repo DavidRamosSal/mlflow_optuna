@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/137375247883971003/64b50726ccec4ae0a796162b8f0789ba/artifacts
+end_time: 1732127248256
+entry_point_name: ''
+experiment_id: '137375247883971003'
+lifecycle_stage: active
+run_id: 64b50726ccec4ae0a796162b8f0789ba
+run_name: glamorous-auk-254
+run_uuid: 64b50726ccec4ae0a796162b8f0789ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732127248208
+status: 3
+tags: []
+user_id: dave
